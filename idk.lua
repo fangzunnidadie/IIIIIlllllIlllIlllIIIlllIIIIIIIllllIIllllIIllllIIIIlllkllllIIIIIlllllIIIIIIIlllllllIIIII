@@ -4,7 +4,7 @@ return {
     },
 
     permanent = {
-        "8598565760"
+
     },
 
     groups = {
