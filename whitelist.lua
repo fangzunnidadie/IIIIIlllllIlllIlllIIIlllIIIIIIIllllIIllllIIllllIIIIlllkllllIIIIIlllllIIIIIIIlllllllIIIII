@@ -37,6 +37,12 @@ local whitelist = {
     "BuVZB2",
     "BlRqzc",
     "LrTn0k",
+    "LQrJtH",
+    "B6Pvr3",
+    "B6lq2I",
+    "4hUkMB",
+    "LmilPR",
+    "MkCMxW",
   }
 }
 return whitelist
