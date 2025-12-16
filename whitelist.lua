@@ -1,6 +1,6 @@
 local whitelist = {
   t = {
-    
+    ["HUUdcf"] = "2025-01-16 0:0:0",
   },
   p = {
     "rAEpEb",
