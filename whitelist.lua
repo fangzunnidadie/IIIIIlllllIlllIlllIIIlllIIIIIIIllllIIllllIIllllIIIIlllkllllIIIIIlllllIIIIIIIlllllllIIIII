@@ -39,3 +39,4 @@ local whitelist = {
     "LrTn0k",
   }
 }
+return whitelist
