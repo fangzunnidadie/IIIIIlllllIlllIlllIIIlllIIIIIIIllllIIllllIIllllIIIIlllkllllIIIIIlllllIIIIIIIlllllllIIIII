@@ -14,7 +14,7 @@ local whitelist = {
     "EE0ftK",
     "TfjQgk",
     "BZMSC0",
-    "HEjD7T",
+    "LrXFSZ",
     "T438Ns",
     "rWFT1n",
     "TEV0OM",
