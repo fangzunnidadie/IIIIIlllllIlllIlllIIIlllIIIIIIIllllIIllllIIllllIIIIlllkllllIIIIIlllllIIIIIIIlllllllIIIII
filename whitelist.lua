@@ -1,11 +1,10 @@
 local whitelist = {
   t = {
     ["HUUdcf"] = "2026-01-16 0:0:0",
-    ["4jbUMw"] = "2026-02-04 0:0:0"
+    ["4jbUMw"] = "2026-02-04 0:0:0",
+    ["LryTOS"] = "2026-02-04 0:0:0"
   },
   p = {
-    "LryTOS",
-    "rAEpEb",
     "MkCMxW",
     "LQ4hPt",
     "Tq9LGK",
