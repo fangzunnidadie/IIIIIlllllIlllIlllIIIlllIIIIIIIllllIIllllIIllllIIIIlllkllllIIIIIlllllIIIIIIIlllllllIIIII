@@ -54,10 +54,13 @@ local whitelist = {
     "L8DPng",
     "HUUdcf",
     "LQTROh",
-    "HfJqTj",
+    "LmnFWz",
     "8bgL48",
     "HDSpMt",
     "HKGGSp",
+    "H5dHjN",
+    "EBQZaA",
+    "EE0ftK",
   }
 }
 return whitelist
