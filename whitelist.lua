@@ -56,6 +56,8 @@ local whitelist = {
     "LQTROh",
     "HfJqTj",
     "8bgL48",
+    "HDSpMt",
+    "HKGGSp",
   }
 }
 return whitelist
