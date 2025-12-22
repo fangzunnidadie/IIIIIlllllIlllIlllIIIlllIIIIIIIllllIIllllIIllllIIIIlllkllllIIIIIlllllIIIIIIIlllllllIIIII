@@ -4,6 +4,7 @@ local whitelist = {
     ["LQh2i9"] = "2026-02-05 0:0:0",
     ["4jbUMw"] = "2026-02-24 0:0:0",
     ["4t9J5I"] = "2026-1-16 0:0:0",
+    ["GpXB7L"] = "2026-1-23 0:0:0",
   },
   p = {
     "MkCMxW",
@@ -63,6 +64,7 @@ local whitelist = {
     "H5dHjN",
     "EBQZaA",
     "EE0ftK",
+    "LMAuJT",
   }
 }
 return whitelist
