@@ -31,7 +31,7 @@ local whitelist = {
     "HjSLy9",
     "B3hvyA",
     "4JtxV2",
-    --"TNYSdr",
+    "TNYSdr",
     "4ojLhU",
     "B6SCXf",
     "Ha8Odd",
