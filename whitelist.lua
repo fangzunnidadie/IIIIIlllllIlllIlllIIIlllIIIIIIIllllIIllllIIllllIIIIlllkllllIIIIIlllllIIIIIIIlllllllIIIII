@@ -1,4 +1,7 @@
-
+return {
+  t = {},
+  p = {}
+}
 local whitelist = {
   t = {
     ["LQh2i9"] = "2026-02-05 0:0:0",
