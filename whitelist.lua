@@ -19,7 +19,6 @@ local whitelist = {
     "BZMSC0",
     "LrXFSZ",
     "T438Ns",
-    "rWFT1n",
     "TEV0OM",
     "HShz51",
     "4laXUj",
