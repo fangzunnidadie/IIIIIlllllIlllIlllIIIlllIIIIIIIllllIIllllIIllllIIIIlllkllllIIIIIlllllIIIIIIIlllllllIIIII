@@ -2,7 +2,7 @@
 local whitelist = {
   t = {
     ["LQh2i9"] = "2026-02-05 0:0:0",
-    ["4jbUMw"] = "2026-02-24 0:0:0",
+    ["L8sQdP"] = "2026-02-24 0:0:0",
     ["4t9J5I"] = "2026-1-16 0:0:0",
     ["GpXB7L"] = "2026-1-23 0:0:0",
   },
@@ -33,7 +33,7 @@ local whitelist = {
     "TNYSdr",
     "4ojLhU",
     "B6SCXf",
-    "Ha8Odd",
+    "L87kYU",
     "8i2YlC",
     "8TFZRv",
     "BvgufR",
