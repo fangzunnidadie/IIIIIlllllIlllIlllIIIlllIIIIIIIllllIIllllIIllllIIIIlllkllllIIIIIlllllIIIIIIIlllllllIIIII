@@ -1,5 +1,5 @@
 --return { t = {}, p = {} }
-local whitelist = { 
+local whitelist = {  
   t = {
     ["LQh2i9"] = "2026-02-05 0:0:0",
     ["L8sQdP"] = "2026-03-02 0:0:0",
